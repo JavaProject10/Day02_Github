@@ -24,6 +24,8 @@ public class Day02_GitGitHub {
 NOT : git log --oneline --> commitlerimdeki yeni versiyonun durumunu gösterir
 
 yeni versiyon nerede kaldı
+
+GitHub ogrendim
      */
     public static void main(String[] args) {
         System.out.println("github da öğrendim");

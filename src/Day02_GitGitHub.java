@@ -28,6 +28,8 @@ NOT : git log --oneline --> commitlerimdeki yeni versiyonun durumunu gösterir
 yeni versiyon nerede kaldı
 
 GitHub ogrendim tekrar öğrendim
+tkrar gönderdim
+tekrar alıyorum
 
      */
     public static void main(String[] args) {

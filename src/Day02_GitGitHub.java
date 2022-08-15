@@ -18,6 +18,8 @@ public class Day02_GitGitHub {
         git remote add origin (adres) komutu yazılacak
         git push -u origin master
 
+      6)- git pull --> uzak repo ya (yani remote) dosyalarımızı güncellemek için kullanılır
+
    NOT:yukarıdaki iki komutu tek seferde kullandıktan sonra diger ikinci commitlerim için sadece
    git push kullanırız
 

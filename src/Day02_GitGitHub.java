@@ -22,6 +22,8 @@ public class Day02_GitGitHub {
    git push kullanırız
 
 NOT : git log --oneline --> commitlerimdeki yeni versiyonun durumunu gösterir
+
+yeni versiyon nerede kaldı
      */
     public static void main(String[] args) {
         System.out.println("github da öğrendim");

@@ -25,7 +25,8 @@ NOT : git log --oneline --> commitlerimdeki yeni versiyonun durumunu gösterir
 
 yeni versiyon nerede kaldı
 
-GitHub ogrendim
+GitHub ogrendim tekrar öğrendim
+
      */
     public static void main(String[] args) {
         System.out.println("github da öğrendim");
